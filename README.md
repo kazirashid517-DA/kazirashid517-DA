@@ -1,4 +1,5 @@
-## Hi, I am Kazi, I'm building my portfolio to show the projects I created my DA course. 👋
+## Hi, I am Kazi,
+I'm building my portfolio to show the projects I created my DA course. 👋
 
 <!--
 **kazirashid517-DA/kazirashid517-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
